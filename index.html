@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Países y Banderas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Juego de Países y Banderas</h1>
+        <canvas id="flagCanvas" width="400" height="400"></canvas>
+        <div class="options">
+            <button id="option1" class="option-button"></button>
+            <button id="option2" class="option-button"></button>
+            <button id="option3" class="option-button"></button>
+            <button id="option4" class="option-button"></button>
+        </div>
+        <div id="progress">Aciertos: 0 / Errores: 0</div>
+    </div>
+    <audio id="correctSound" src="win.mp3"></audio>
+    <audio id="errorSound" src="error_sound.mp3"></audio>
+    <script src="paises.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

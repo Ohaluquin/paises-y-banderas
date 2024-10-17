@@ -1,0 +1,3 @@
+const paises = {
+  countries: ["Bolivia", "Colombia", "Costa Rica", "Ecuador", "Guatemala", "Haiti", "Honduras", "Jamaica", "Panama", "Paraguay", "Peru", "Uruguay", "Venezuela", "alemania", "angola", "arabia saudita", "argelia", "argentina", "australia", "belgica", "brasil", "butan", "canada", "chile", "china", "chipre", "corea del sur", "costa de marfil", "croacia", "cuba", "dinamarca", "egipto", "escocia", "españa", "estados unidos", "etiopia", "filipinas", "francia", "ghana", "grecia", "india", "inglaterra", "islandia", "italia", "japon", "kenia", "madagascar", "marruecos", "mexico", "mongolia", "nigeria", "noruega", "nueva zelanda", "paises bajos", "polonia", "portugal", "rusia", "sudafrica", "suecia", "suiza", "tailandia", "togo", "tunez", "turquia"]
+};
